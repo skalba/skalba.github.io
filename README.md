@@ -1,2 +1,2 @@
-# skalba.github.io
-Piotr Skałba - Specjalistyczna Praktyka Lekarska
+# Piotr Skałba - Specjalistyczna Praktyka Lekarska
+piotr.skalba@gmail.com
